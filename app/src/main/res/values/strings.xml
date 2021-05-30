@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Order Product</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Csongrad</item>
+        <item>Pest</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>Szeged</item>
+        <item>Budapest</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Twist-To-Lock Generator Cords </item>
+        <item>Heavy Duty and Industrial Temporary Power Cords</item>
+        <item>RV Power Cords and Adapters</item>
+        <item>Hazardous Location/Explosion Proof Extension Cor</item>
+        <item>Power Supply Replacement Cords</item>
+        <item>Appliance Cords</item>
+        <item>Household and Coiled Extension Cords</item>
+        <item>Portable Ground Fault Circuit Interrupters</item>
+        <item>Multi Outlet Plugs</item>
+    </string-array>
+</resources>
